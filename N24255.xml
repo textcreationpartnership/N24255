@@ -114,19 +114,19 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:032066_0000_0FF10D05FB346328"/>
-            <pb facs="tcp:032066_0001_0FF10D1DC04D1278"/>
+            <pb facs="unknown:032066_0000_0FF10D05FB346328"/>
+            <pb facs="unknown:032066_0001_0FF10D1DC04D1278"/>
             <p>TELL TRUTH AND SHAME THE DEVIL: <hi>A COMEDY, IN TWO ACTS.</hi>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:032066_0002_0FF10D08FA152BD0"/>
+            <pb facs="unknown:032066_0002_0FF10D08FA152BD0"/>
             <p>TELL TRUTH AND SHAME THE DEVIL: <hi>A COMEDY, IN TWO ACTS,</hi> AS PERFORMED BY THE OLD AMERICAN COMPANY, NEW-YORK, JANUARY, 1797.</p>
             <p>
                <hi>NEW-YORK:</hi> Printed by T. and J. SWORDS, No. 99 Pearl-ſtreet. 1797.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:032066_0003_0FF10CEA0BD1A280"/>
+            <pb facs="unknown:032066_0003_0FF10CEA0BD1A280"/>
             <head>CHARACTERS.</head>
             <list>
                <item>SEMBLANCE, Mr. JOHNSON.</item>
@@ -142,7 +142,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:032066_0004_0FF10D101294ED70"/>
+            <pb facs="unknown:032066_0004_0FF10D101294ED70"/>
             <head>Tell Truth and shame the Devil: A COMEDY, IN TWO ACTS.</head>
             <div n="1" type="act">
                <head>ACT FIRST.</head>
@@ -180,7 +180,7 @@
                      <p>Ah! <hi>there</hi> it is: if it was not for that cursed trick of telling all you know, and speaking all you think, we should have gone along together over the rough roads of life as smoothly as a pair of velvet shoes.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:032066_0005_0FF10D406DF1FA68"/>
+                     <pb n="6" facs="unknown:032066_0005_0FF10D406DF1FA68"/>
                      <speaker>WHITELY.</speaker>
                      <p>Sir, it is now five years since you, supposing me a fit in<g ref="char:EOLhyphen"/>strument for your purposes, relieved me and a suffering family from poverty, and gave me a share in your business by way of securing my services.</p>
                   </sp>
@@ -221,7 +221,7 @@
                      <p>What was that to you, Sir?—you are not the judge.—And did not you lose one of our best customers, by defending the cause of a black whom he held in slavery?</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:032066_0006_0FF10D42ADBF0F40"/>
+                     <pb n="7" facs="unknown:032066_0006_0FF10D42ADBF0F40"/>
                      <speaker>WHITELY.</speaker>
                      <p>I did, Sir; and would have lost my life before I would de<g ref="char:EOLhyphen"/>sert the cause of humanity. The profession of a lawyer may be exercised in the fullest conformity to the rules of universal justice and expansive benevolence, as we know by the exam<g ref="char:EOLhyphen"/>ples of many around us: it is such as you who bring upon it the vulgar sarcasms of the undiscriminating and thoughtless. For myself, soon disgusted with your manner of living, and your manner of practice, I should have thrown off the lucra<g ref="char:EOLhyphen"/>tive connexion, but for the persuasions of a beloved wife, who, having felt the rude and 'numbing grasp of poverty, anxiously sought to guard our children from it. For her and them I labour'd—that is past—for she and they—are—dead—<hi>(struggling to repress his feelings)</hi>—Pshaw—this is weak<g ref="char:EOLhyphen"/>ness.</p>
                   </sp>
@@ -242,7 +242,7 @@
                      <p>She was, indeed, a loss to her daughter. Poor girl! denied the advantages of that wealth which you accumulate but to misuse, you keep her, though now a woman, at an obscure country boarding-school, that her presence may not check the secret indulgences of those sensual pleasures, in which you seek for happiness.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:032066_0007_0FF10D00D00378D8"/>
+                     <pb n="8" facs="unknown:032066_0007_0FF10D00D00378D8"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Really, Sir, this is—curse him—he quite bewilders the—indeed, Sir, I am very far from being happy.</p>
                   </sp>
@@ -280,7 +280,7 @@
                         <hi>He</hi> is supreme among the wretched, who dares not listen to sincerity. You are a wretch, whose every moment of se<g ref="char:EOLhyphen"/>curity depends upon the strength of the cob-web veil woven by your own hypocrisy. You start from the eye of inquiry. You tremble at the breath of truth. Detection, a phantom, painted by your own fears, is for ever before your eyes. You redouble your arts of deceit, and daily become more con<g ref="char:EOLhyphen"/>temptible and more miserable.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:032066_0008_0FF10D23147194E0"/>
+                     <pb n="9" facs="unknown:032066_0008_0FF10D23147194E0"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>I know I am not happy. I never was happy. I don't be<g ref="char:EOLhyphen"/>lieve I ever shall be happy in this miserable world.</p>
                   </sp>
@@ -309,7 +309,7 @@
                      <p>If I had not known you I should have said it was impos<g ref="char:EOLhyphen"/>sible.</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:032066_0009_0FF10D45A7964700"/>
+                     <pb n="10" facs="unknown:032066_0009_0FF10D45A7964700"/>
                      <speaker>WHITELY.</speaker>
                      <p>His present extravagances I can trace to his disrelish for the study and practice of the law, as taught by you, his master and guardian; and the very bad example you set him.</p>
                   </sp>
@@ -336,7 +336,7 @@
                   <sp>
                      <speaker>WHITELY.</speaker>
                      <p>Be not alarm'd. For although every particle of know<g ref="char:EOLhyphen"/>ledge possessed by me is due to the world, I have so far power over it, that I need not discharge the debt until I see the moment when the greatest sum of good will be produced by the payment. I shall never do any thing to injure you—
-<pb n="11" facs="tcp:032066_0010_0FF10D26EE1B6010"/>
+<pb n="11" facs="unknown:032066_0010_0FF10D26EE1B6010"/>
 the contrary is my wish. I will see you again before I go. Are you not a man, and shall I not wish you happy? Think of what I have said.</p>
                      <stage>[Exit.</stage>
                   </sp>
@@ -367,7 +367,7 @@ the contrary is my wish. I will see you again before I go. Are you not a man, an
                      <p>Aye, long ago.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:032066_0011_0FF10CFB89EA1DD0"/>
+                     <pb n="12" facs="unknown:032066_0011_0FF10CFB89EA1DD0"/>
                      <speaker>TOM.</speaker>
                      <p>Has he asked for me?</p>
                   </sp>
@@ -416,7 +416,7 @@ the contrary is my wish. I will see you again before I go. Are you not a man, an
                      <p>Ah, you'll find a way to get rid of it.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:032066_0012_0FF10D12A055F440"/>
+                     <pb n="13" facs="unknown:032066_0012_0FF10D12A055F440"/>
                      <speaker>TOM.</speaker>
                      <p>I have hit upon a scheme already.</p>
                   </sp>
@@ -467,7 +467,7 @@ the contrary is my wish. I will see you again before I go. Are you not a man, an
                      <p>Well; we live and learn. But I should never have looked for a spider's web over the lips of a pretty chamber-maid.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:032066_0013_0FF10D29E85568B0"/>
+                     <pb n="14" facs="unknown:032066_0013_0FF10D29E85568B0"/>
                      <speaker>SUSAN.</speaker>
                      <p>Indeed, Sir, it was in spite of my very teeth—</p>
                   </sp>
@@ -521,7 +521,7 @@ the contrary is my wish. I will see you again before I go. Are you not a man, an
                      <p>So, Sir, I went off again, and joined—my brethren, once more.</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:032066_0014_0FF10D0A85EAA600"/>
+                     <pb n="15" facs="unknown:032066_0014_0FF10D0A85EAA600"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Very well, Sir; and you may now go again and take up your abode with the family.</p>
                   </sp>
@@ -565,7 +565,7 @@ the contrary is my wish. I will see you again before I go. Are you not a man, an
                   <sp>
                      <speaker>SEMBLANCE.</speaker>
                      <p>An unprincipled libertine, whom good counsel and good
-<pb n="16" facs="tcp:032066_0015_0FF10CFE919CF8E0"/>
+<pb n="16" facs="unknown:032066_0015_0FF10CFE919CF8E0"/>
 example cannot reclaim, and whose sins are outdone by no<g ref="char:EOLhyphen"/>thing but his impudence!—</p>
                   </sp>
                   <sp>
@@ -609,7 +609,7 @@ example cannot reclaim, and whose sins are outdone by no<g ref="char:EOLhyphen"/
                      <p>And it is out of regard to my daughter, that you have a smile, bow, nosegay, or sonnet, for every girl in the parish.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:032066_0016_0FF10D2B70D76718"/>
+                     <pb n="17" facs="unknown:032066_0016_0FF10D2B70D76718"/>
                      <speaker>TOM.</speaker>
                      <p>I do not know that it is a crime to admire beauty, or to cultivate a talent for expressing my thoughts with elegance and truth.</p>
                   </sp>
@@ -646,7 +646,7 @@ example cannot reclaim, and whose sins are outdone by no<g ref="char:EOLhyphen"/
                      <p>Do you never play at cards, Sir?</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:032066_0017_0FF10D473948E2F0"/>
+                     <pb n="18" facs="unknown:032066_0017_0FF10D473948E2F0"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Never, Sir, never. What can be the pleasure of a game<g ref="char:EOLhyphen"/>ster? Has his soul one moment of calm or self-enjoyment? If he gains, his gain is always below desire; if he loses, rage and despair take possession of his soul. The feelings of hu<g ref="char:EOLhyphen"/>manity are banished from the gamester's heart; he thirsts for the ruin of his nominal friend, who equally burns with de<g ref="char:EOLhyphen"/>sire to ruin him.</p>
                   </sp>
@@ -675,7 +675,7 @@ example cannot reclaim, and whose sins are outdone by no<g ref="char:EOLhyphen"/
                      <p>Modest, truly! Give up my business and marry you to my daughter! I do admire you, Tom; I do, indeed. Give you my daughter, and give up my business! Would not your modesty wish to employ me as a clerk in your office?</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:032066_0018_0FF10D3E760B1928"/>
+                     <pb n="19" facs="unknown:032066_0018_0FF10D3E760B1928"/>
                      <speaker>TOM.</speaker>
                      <p>Ha, ha!—no, thankee, guardy; I think I can do better in that respect. I believe I should very soon discharge you.</p>
                   </sp>
@@ -716,7 +716,7 @@ example cannot reclaim, and whose sins are outdone by no<g ref="char:EOLhyphen"/
                   <sp>
                      <speaker>TOM.</speaker>
                      <p>I will send some porters for my cloaths and books, which I know you will deliver in good order. So, my good girl,
-<pb n="20" facs="tcp:032066_0019_0FF10CE68FB3C298"/>
+<pb n="20" facs="unknown:032066_0019_0FF10CE68FB3C298"/>
 good bye; take this bank bill—you may receive it from me, Susan, because you know me to be above taking advantage of the gratitude which an innocent heart feels on receiving a favour. Why don't you take it? Is the girl blind?</p>
                   </sp>
                   <sp>
@@ -764,7 +764,7 @@ good bye; take this bank bill—you may receive it from me, Susan, because you k
                      <p>Have I offended you, Sir?</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:032066_0020_0FF10D15CFCC9228"/>
+                     <pb n="21" facs="unknown:032066_0020_0FF10D15CFCC9228"/>
                      <speaker>WHITELY.</speaker>
                      <p>Offended me! surely no. Why the question?</p>
                   </sp>
@@ -808,7 +808,7 @@ good bye; take this bank bill—you may receive it from me, Susan, because you k
                   <sp>
                      <speaker>WHITELY.</speaker>
                      <p>Disguise! What, shall the preacher of sincerity put on disguise to persuade hypocrisy to unmask herself? Shall the
-<pb n="22" facs="tcp:032066_0021_0FF10CEBB99E4268"/>
+<pb n="22" facs="unknown:032066_0021_0FF10CEBB99E4268"/>
 pupil of truth have recourse to deceit to accomplish the pur<g ref="char:EOLhyphen"/>poses of virtue?</p>
                   </sp>
                   <sp>
@@ -841,7 +841,7 @@ pupil of truth have recourse to deceit to accomplish the pur<g ref="char:EOLhyph
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="23" facs="tcp:032066_0022_0FF10CF857AD3BC8"/>
+               <pb n="23" facs="unknown:032066_0022_0FF10CF857AD3BC8"/>
                <head>ACT SECOND.</head>
                <div type="scene">
                   <head>Scene SEMBLANCE'S Office—table and chairs.</head>
@@ -863,7 +863,7 @@ pupil of truth have recourse to deceit to accomplish the pur<g ref="char:EOLhyph
                      <p>Is it thee, Susan? Come hither, child.</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:032066_0023_0FF10D2CFB898038"/>
+                     <pb n="24" facs="unknown:032066_0023_0FF10D2CFB898038"/>
                      <speaker>SUSAN.</speaker>
                      <p>I was coming, Sir, to ask you to have the goodness to reckon up last week's expences.</p>
                   </sp>
@@ -919,7 +919,7 @@ pupil of truth have recourse to deceit to accomplish the pur<g ref="char:EOLhyph
                   <sp>
                      <speaker>SEMBLANCE.</speaker>
                      <p>I don't wonder your accounts run so high—never offer
-<pb n="25" facs="tcp:032066_0024_0FF10D0E80E14FB0"/>
+<pb n="25" facs="unknown:032066_0024_0FF10D0E80E14FB0"/>
 more than a fourth of what's demanded. When they ask a shilling, three-pence is the mark.</p>
                   </sp>
                   <sp>
@@ -983,7 +983,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Oh no, Sir!</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:032066_0025_0FF10D3039A4F158"/>
+                     <pb n="26" facs="unknown:032066_0025_0FF10D3039A4F158"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Good girl, good girl.—Well, let us see—<hi>(looks alter<g ref="char:EOLhyphen"/>nately at the book and at her.)</hi> Good girl. Six and nine make fifteen—three and carry one—Handsome hussey. One and two make three, and four are seven, and ten are seven<g ref="char:EOLhyphen"/>teen, and eight are twenty-five—how pretty!—Six and carry two—two and four—so modest!—are thirteen—and—I'm out—nought and go one—charming shit!—It's all right, Su<g ref="char:EOLhyphen"/>san, very right—and there are four dollars more. But be prudent, Susan.</p>
                   </sp>
@@ -1024,7 +1024,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Fye, Sir, how could you think of such a thing?</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:032066_0026_0FF10D33380F5950"/>
+                     <pb n="27" facs="unknown:032066_0026_0FF10D33380F5950"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Good girl. Give me thy hand, then, Susan. <hi>(Takes her hand.)</hi> Pretty little taper puppets.</p>
                   </sp>
@@ -1079,7 +1079,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Fye, Sir, don't you see the gentleman?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:032066_0027_0FF10D1844E3EC30"/>
+                     <pb n="28" facs="unknown:032066_0027_0FF10D1844E3EC30"/>
                      <speaker>TOM.</speaker>
                      <p>Oh, don't let me interrupt you, grand-father.</p>
                   </sp>
@@ -1145,7 +1145,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>I think I may boast—</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:032066_0028_0FF10CF9E175AC80"/>
+                     <pb n="29" facs="unknown:032066_0028_0FF10CF9E175AC80"/>
                      <speaker>TOM.</speaker>
                      <p>As ever ruin'd one party, and left t'other in jail, starving.</p>
                   </sp>
@@ -1198,7 +1198,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Cast out an anchor abaft: keep your how steady, and shut your forecastle-hatchway. Why, damn me, you stand gap<g ref="char:EOLhyphen"/>ing as if I did'n't talk plain English; sit down, and shut your mouth.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:032066_0029_0FF10D34C5B65378"/>
+                     <pb n="30" facs="unknown:032066_0029_0FF10D34C5B65378"/>
                      <speaker>SEMBLANCE. (Sitting.)</speaker>
                      <p>Give a lawyer twenty guineas and ask him to hold his tongue—not a new case either, now I think on't. I was only going to say, that in general we found it no easy matter to draw the chink from our clients—I must humour this follow.</p>
                   </sp>
@@ -1243,7 +1243,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>He, he!—the honour of a fellow that's shot at for so much per month! <hi>(To him)</hi> Aye, aye, I understand; in a moment of weakness or distraction—it happens every day to very honest folks. But when they know how to manage matters by aid of an honest lawyer, all goes well. Well, well, explain—let us know the fact.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:032066_0030_0FF10D1FF522FF30"/>
+                     <pb n="31" facs="unknown:032066_0030_0FF10D1FF522FF30"/>
                      <speaker>TOM.</speaker>
                      <p>Avast there—It's warm—I am dry. What, are you deaf? Its my way to talk with my glass in my hand.</p>
                   </sp>
@@ -1295,7 +1295,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Indeed, Sir, I could'n't help it.</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:032066_0031_0FF10D4A40DC94C0"/>
+                     <pb n="32" facs="unknown:032066_0031_0FF10D4A40DC94C0"/>
                      <speaker>TOM.</speaker>
                      <p>Aye, in spite of your <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -1342,7 +1342,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>Had I not better say you are busy, Sir? the other's <hi>a lie,</hi> you know.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:032066_0032_0FF10CEEB9823E88"/>
+                     <pb n="33" facs="unknown:032066_0032_0FF10CEEB9823E88"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>O, it's understood that the master's engaged, when the servant says he's not at home.</p>
                   </sp>
@@ -1399,7 +1399,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                      <p>By the importunities of a fool.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:032066_0033_0FF10CF2E595CBB0"/>
+                     <pb n="34" facs="unknown:032066_0033_0FF10CF2E595CBB0"/>
                      <speaker>TOM.</speaker>
                      <p>Old—</p>
                   </sp>
@@ -1427,7 +1427,7 @@ more than a fourth of what's demanded. When they ask a shilling, three-pence is 
                   <sp>
                      <speaker>TOM.</speaker>
                      <p>In the mean time, a young French officer who had quitted his ship to come to our succour, seeing my resolution, threw
-<pb n="35" facs="tcp:032066_0034_0FF10D4BF1A34A68"/>
+<pb n="35" facs="unknown:032066_0034_0FF10D4BF1A34A68"/>
 his pistols and cutlass into the sea, and, leaping on board my vessel, advanced towards me through fire and smoke, with a white handkerchief waving in his hand, beseeching me to save myself. I had scarcely time to notice the young devil, when, seizing me in his arms, he leaped with me into the sea, and, before we 'roſe to the water's surface again, my ship blew up and disappeared for ever. Here's a health to the young <hi>Sansculotte.</hi>
                      </p>
                   </sp>
@@ -1446,7 +1446,7 @@ his pistols and cutlass into the sea, and, leaping on board my vessel, advanced 
                   <sp>
                      <speaker>TOM.</speaker>
                      <p>No, dam'me, he's a man. But to go on with my story. As good luck would have it, I brought off with me my pocket-book well lined; and learning that my deliverer was a mere volunteer, and of no fortune, I wanted to share with him: but no, he will not take a guinea. From the time of our meeting we have never parted. We love one another entirely. He is the best lad that ever step'd between the
-<pb n="36" facs="tcp:032066_0035_0FF10D4FA7BFBC48"/>
+<pb n="36" facs="unknown:032066_0035_0FF10D4FA7BFBC48"/>
 stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                   </sp>
                   <sp>
@@ -1499,7 +1499,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>Do you practise as well as teach?</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:032066_0036_0FF10D21887CFD28"/>
+                     <pb n="37" facs="unknown:032066_0036_0FF10D21887CFD28"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Certainly; you would not have me say one thing and do another?</p>
                   </sp>
@@ -1556,7 +1556,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>Adso! we must not neglect business.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:032066_0037_0FF10CF6CED637C0"/>
+                     <pb n="38" facs="unknown:032066_0037_0FF10CF6CED637C0"/>
                      <speaker>TOM.</speaker>
                      <p>As I said, this Frenchman and myself were inseparable. Yesterday he proposed a game at piquet; I accepted—and now I come to my cause of complaint—I played with such success that I won five-and-twenty louis.</p>
                   </sp>
@@ -1601,7 +1601,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>NO.</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:032066_0038_0FF10D368CE36870"/>
+                     <pb n="39" facs="unknown:032066_0038_0FF10D368CE36870"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>Never mind—I'll find them.</p>
                   </sp>
@@ -1668,7 +1668,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>Your's.</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:032066_0039_0FF10D5132CB72D0"/>
+                     <pb n="40" facs="unknown:032066_0039_0FF10D5132CB72D0"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>That's three hundred.</p>
                   </sp>
@@ -1729,7 +1729,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>He! he! Yes.</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:032066_0040_0FF10D3A74A8ED30"/>
+                     <pb n="41" facs="unknown:032066_0040_0FF10D3A74A8ED30"/>
                      <speaker>TOM.</speaker>
                      <p>Done. <hi>(They throw.)</hi> Huzza! damn me I'm an at<g ref="char:EOLhyphen"/>torney!</p>
                      <stage>(Jumps up.)</stage>
@@ -1784,7 +1784,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>Even so, guardy. You have seen me in disguise; I have seen you, for once, in your true colours.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:032066_0041_0FF10D3C01BD82C8"/>
+                     <pb n="42" facs="unknown:032066_0041_0FF10D3C01BD82C8"/>
                      <speaker>SEMBLANCE.</speaker>
                      <p>And the battle—the hand-granades—the French frigate, and the Pretty Betsey?</p>
                   </sp>
@@ -1829,7 +1829,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>Who'll believe you when I deny it! You are a rascal! Get out of my house!</p>
                   </sp>
                   <stage>
-                     <pb n="43" facs="tcp:032066_0042_0FF10D19CE08DD70"/>
+                     <pb n="43" facs="unknown:032066_0042_0FF10D19CE08DD70"/>
                      <hi>"Enter</hi> SUSAN.</stage>
                   <sp>
                      <speaker>"SUSAN.</speaker>
@@ -1866,7 +1866,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                      <p>A fellow that has told more lies in the last half hour than all the attornies in town in a month. I thank you, my good friend, from my soul, and will be, for the future, a better fa<g ref="char:EOLhyphen"/>ther, and, I hope, a better man: but until Mr. Holton and I have some further explanations, I beg leave to defer his con<g ref="char:EOLhyphen"/>nexion in my family. Thomas Holton, come into court!</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:032066_0043_0FF10D52C269DBE0"/>
+                     <pb n="44" facs="unknown:032066_0043_0FF10D52C269DBE0"/>
                      <speaker>TOM.</speaker>
                      <p>Here! Convicted of duplicity. I feel, my worthy moni<g ref="char:EOLhyphen"/>tor, <hi>(to Whitely)</hi> the justice of your observations when last I saw you, and acknowledge the justice of Mr. Semblance's decision. Was I to moralize on the transactions of the day, I should sum up all in the old adage, "Honesty is the best policy," and advise all within hearing, in the words of Hot<g ref="char:EOLhyphen"/>spur, to "tell truth and shame the devil—ever, while you live, guardy, tell the truth and shame the devil."</p>
                   </sp>
@@ -1897,7 +1897,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
                   <l>" Ta'en by surprize, the sighing swain is thrust</l>
                   <l>" Close in the closet, Betty's wit his trust:—</l>
                   <l>
-                     <pb n="45" facs="tcp:032066_0044_0FF10D568EC72460"/>
+                     <pb n="45" facs="unknown:032066_0044_0FF10D568EC72460"/>
 " He coughs or sneezes—" Betty, pray what's that?"</l>
                   <l>" <hi>I</hi> don't hear <hi>nothing,</hi> Madam—Oh—the cat!"</l>
                   <l>" Sure such a fib comes in sometimes quite pat.</l>
@@ -1921,7 +1921,7 @@ stem and the stem of a vessel; and 'tis him I am determined to prosecute.</p>
       </body>
       <back>
          <div type="errata">
-            <pb facs="tcp:032066_0045_0FF10D58D5434490"/>
+            <pb facs="unknown:032066_0045_0FF10D58D5434490"/>
             <head>ERRATA.</head>
             <p>Page 5, 8th line from the bottom, for "Whitley" read "Whitely."</p>
             <p>Page 10, 16th line from the top, for "frugality" read "re<g ref="char:EOLhyphen"/>gularity."</p>
